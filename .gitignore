@@ -1,0 +1,8 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# The source journal contains personal information and is kept out of the repo.
+Ayush Pangaonkar_36_Statistics Practical Journal.pdf
